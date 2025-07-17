@@ -13,7 +13,6 @@ This project presents an interactive Power BI dashboard built using sales data o
 
 - 💰 Total and monthly sales overview  
 - 🧃 Product-wise and category-wise sales performance  
-- ⭐ Customer rating analysis  
 - 📈 Sales growth trends  
 - 📦 Quantity sold by product  
 - 📍 Filter options for category, product, and rating
@@ -26,15 +25,6 @@ This dashboard helps business users and decision-makers understand how nutrition
 
 - **Microsoft Excel** – For storing and organizing sales data  
 - **Microsoft Power BI** – For creating interactive visual dashboards
-
-## 📌 How to Use
-
-1. Download both files (`.xlsx` and `.pbix`)
-2. Open the `.pbix` file in Power BI Desktop
-3. Ensure the Excel data path is correctly linked (update path if needed)
-4. Explore the dashboard using slicers and visual filters
-
----
 
 📌 *Feel free to clone, customize, and enhance this project for your own data visualization practice!*
 
